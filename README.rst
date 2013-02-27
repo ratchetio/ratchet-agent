@@ -1,3 +1,6 @@
+This library is deprecated, please use rollbar-agent_
+=====================================================
+
 ratchet-agent
 =============
 A daemon to monitor log files and push messages to Ratchet.io_.
@@ -64,6 +67,7 @@ Additional Help
 If you have any questions, feedback, etc., drop me a line at brian@ratchet.io
 
 
+.. _rollbar-agent: https://github.com/rollbar/rollbar-agent
 .. _Ratchet.io: http://ratchet.io/
 .. _`download the zip`: https://github.com/ratchetio/django_ratchet/zipball/master
 .. _ratchet-agent: http://github.com/ratchetio/ratchet-agent
